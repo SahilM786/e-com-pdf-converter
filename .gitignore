@@ -1,0 +1,2 @@
+# Sample/order PDFs contain customer names and addresses - never commit them
+*.pdf
